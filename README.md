@@ -53,12 +53,6 @@ python main.py
 3. Confirm the operation.
 4. The program moves files into category folders.
 
-## ⚠️ Safety
-
-- Test the application on sample files first.
-- Files are moved, not copied.
-- Avoid running it on important folders until you understand its behavior.
-- Keep backups of important files.
 
 ## 🔮 Future Improvements
 
